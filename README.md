@@ -28,5 +28,5 @@ HOW TO RUN
 -Open your browser  
 -Go to phpmyadmin and import the sql file into the bms database  
 -Type " localhost/<file_name_here> " to the URL address bar  
--Press enter  
+
   
